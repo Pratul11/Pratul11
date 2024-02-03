@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://65bd1b1d332e9c12db41a981--neon-sunburst-b160aa.netlify.app/](https://65bd1b1d332e9c12db41a981--neon-sunburst-b160aa.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pratuljohari.netlify.app/](https://65bd1b1d332e9c12db41a981--neon-sunburst-b160aa.netlify.app/)
 
 - 📫 How to reach me **pratuljohari608@gmail.com**
 
