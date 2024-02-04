@@ -1,3 +1,5 @@
+![logo](https://github.com/Pratul11/Pratul11/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Pratul Johari</h1>
 <h3 align="center">A passionate frontend and Software developer from India</h3>
 
